@@ -1,0 +1,172 @@
+Using device: mps
+
+======================================================================
+>>> Benchmark [1/2]: TASK: LISTOPS | MODEL: STANDARD_COMPRESSOR <<<
+Parameters: 4,339,978 Total | 4,339,978 Trainable
+======================================================================
+Epoch [01/50] | Train Loss: 2.0280 | Train Acc:  27.3% | Test Acc:  25.9% | Test MI:  40.74 nats
+Epoch [02/50] | Train Loss: 1.8350 | Train Acc:  30.7% | Test Acc:  27.1% | Test MI:  41.78 nats
+Epoch [03/50] | Train Loss: 1.7876 | Train Acc:  30.5% | Test Acc:  25.6% | Test MI:  51.79 nats
+Epoch [04/50] | Train Loss: 1.7373 | Train Acc:  34.2% | Test Acc:  28.5% | Test MI:  52.06 nats
+Epoch [05/50] | Train Loss: 1.7343 | Train Acc:  31.3% | Test Acc:  29.6% | Test MI:  49.60 nats
+Epoch [06/50] | Train Loss: 1.6748 | Train Acc:  33.5% | Test Acc:  30.9% | Test MI:  61.58 nats
+Epoch [07/50] | Train Loss: 1.6889 | Train Acc:  36.0% | Test Acc:  28.1% | Test MI:  58.72 nats
+Epoch [08/50] | Train Loss: 1.7037 | Train Acc:  35.0% | Test Acc:  29.9% | Test MI:  73.57 nats
+Epoch [09/50] | Train Loss: 1.6847 | Train Acc:  36.6% | Test Acc:  29.9% | Test MI:  73.96 nats
+Epoch [10/50] | Train Loss: 1.6929 | Train Acc:  34.3% | Test Acc:  27.8% | Test MI:  66.35 nats
+Epoch [11/50] | Train Loss: 1.7608 | Train Acc:  33.3% | Test Acc:  26.2% | Test MI:  64.21 nats
+Epoch [12/50] | Train Loss: 1.7690 | Train Acc:  33.5% | Test Acc:  26.1% | Test MI:  62.96 nats
+Epoch [13/50] | Train Loss: 1.7871 | Train Acc:  34.0% | Test Acc:  27.4% | Test MI:  59.06 nats
+Epoch [14/50] | Train Loss: 1.7497 | Train Acc:  32.9% | Test Acc:  26.2% | Test MI:  65.08 nats
+Epoch [15/50] | Train Loss: 1.7455 | Train Acc:  31.6% | Test Acc:  24.6% | Test MI:  70.98 nats
+Epoch [16/50] | Train Loss: 1.7580 | Train Acc:  33.7% | Test Acc:  26.5% | Test MI:  65.05 nats
+Epoch [17/50] | Train Loss: 1.7464 | Train Acc:  33.8% | Test Acc:  25.4% | Test MI:  63.04 nats
+Epoch [18/50] | Train Loss: 1.7464 | Train Acc:  31.2% | Test Acc:  26.2% | Test MI:  61.66 nats
+Epoch [19/50] | Train Loss: 1.7294 | Train Acc:  34.5% | Test Acc:  27.8% | Test MI:  64.68 nats
+Epoch [20/50] | Train Loss: 1.6787 | Train Acc:  36.2% | Test Acc:  28.4% | Test MI:  70.29 nats
+Epoch [21/50] | Train Loss: 1.6707 | Train Acc:  36.6% | Test Acc:  28.3% | Test MI:  65.00 nats
+Epoch [22/50] | Train Loss: 1.6641 | Train Acc:  37.0% | Test Acc:  29.9% | Test MI:  64.42 nats
+Epoch [23/50] | Train Loss: 1.6302 | Train Acc:  38.4% | Test Acc:  30.9% | Test MI:  65.56 nats
+Epoch [24/50] | Train Loss: 1.6393 | Train Acc:  37.6% | Test Acc:  28.1% | Test MI:  63.28 nats
+Epoch [25/50] | Train Loss: 1.6294 | Train Acc:  37.7% | Test Acc:  26.9% | Test MI:  59.28 nats
+Epoch [26/50] | Train Loss: 1.6389 | Train Acc:  37.9% | Test Acc:  30.2% | Test MI:  68.27 nats
+Epoch [27/50] | Train Loss: 1.5961 | Train Acc:  38.7% | Test Acc:  30.8% | Test MI:  74.11 nats
+Epoch [28/50] | Train Loss: 1.5967 | Train Acc:  39.1% | Test Acc:  30.1% | Test MI:  69.50 nats
+Epoch [29/50] | Train Loss: 1.6141 | Train Acc:  38.1% | Test Acc:  29.0% | Test MI:  66.47 nats
+Epoch [30/50] | Train Loss: 1.5772 | Train Acc:  39.2% | Test Acc:  30.9% | Test MI:  66.38 nats
+Epoch [31/50] | Train Loss: 1.5864 | Train Acc:  40.1% | Test Acc:  30.2% | Test MI:  71.52 nats
+Epoch [32/50] | Train Loss: 1.5824 | Train Acc:  37.2% | Test Acc:  28.9% | Test MI:  75.96 nats
+Epoch [33/50] | Train Loss: 1.5574 | Train Acc:  40.2% | Test Acc:  30.6% | Test MI:  75.30 nats
+Epoch [34/50] | Train Loss: 1.5698 | Train Acc:  37.7% | Test Acc:  29.2% | Test MI:  66.59 nats
+Epoch [35/50] | Train Loss: 1.5552 | Train Acc:  40.9% | Test Acc:  32.0% | Test MI:  67.99 nats
+Epoch [36/50] | Train Loss: 1.5622 | Train Acc:  40.0% | Test Acc:  29.9% | Test MI:  66.79 nats
+Epoch [37/50] | Train Loss: 1.5718 | Train Acc:  38.8% | Test Acc:  30.2% | Test MI:  72.69 nats
+Epoch [38/50] | Train Loss: 1.5853 | Train Acc:  40.9% | Test Acc:  29.8% | Test MI:  79.57 nats
+Epoch [39/50] | Train Loss: 1.5724 | Train Acc:  39.7% | Test Acc:  31.6% | Test MI:  77.56 nats
+Epoch [40/50] | Train Loss: 1.5804 | Train Acc:  35.9% | Test Acc:  29.3% | Test MI:  68.51 nats
+Epoch [41/50] | Train Loss: 1.6024 | Train Acc:  39.1% | Test Acc:  30.6% | Test MI:  75.67 nats
+Epoch [42/50] | Train Loss: 1.6064 | Train Acc:  39.0% | Test Acc:  31.7% | Test MI:  67.32 nats
+Epoch [43/50] | Train Loss: 1.5980 | Train Acc:  39.2% | Test Acc:  32.2% | Test MI:  74.79 nats
+Epoch [44/50] | Train Loss: 1.5884 | Train Acc:  39.4% | Test Acc:  30.1% | Test MI:  69.96 nats
+Epoch [45/50] | Train Loss: 1.5782 | Train Acc:  37.9% | Test Acc:  31.7% | Test MI:  71.29 nats
+Epoch [46/50] | Train Loss: 1.5920 | Train Acc:  40.0% | Test Acc:  31.3% | Test MI:  77.86 nats
+Epoch [47/50] | Train Loss: 1.5919 | Train Acc:  39.1% | Test Acc:  30.4% | Test MI:  74.54 nats
+Epoch [48/50] | Train Loss: 1.6010 | Train Acc:  36.7% | Test Acc:  31.1% | Test MI:  67.94 nats
+Epoch [49/50] | Train Loss: 1.5612 | Train Acc:  38.5% | Test Acc:  30.5% | Test MI:  67.83 nats
+Epoch [50/50] | Train Loss: 1.5929 | Train Acc:  39.1% | Test Acc:  30.8% | Test MI:  69.77 nats
+
+======================================================================
+>>> Benchmark [1/2]: TASK: LISTOPS | MODEL: UNIVERSAL_COMPRESSOR <<<
+Parameters: 1,651,979 Total | 1,651,979 Trainable
+======================================================================
+Epoch [01/50] | Train Loss: 2.1019 | Train Acc:  29.5% | Test Acc:  23.1% | Test MI:  50.89 nats | Ponder: 6.38 steps
+Epoch [02/50] | Train Loss: 1.8206 | Train Acc:  34.5% | Test Acc:  25.7% | Test MI:  70.00 nats | Ponder: 6.67 steps
+Epoch [03/50] | Train Loss: 1.6255 | Train Acc:  39.8% | Test Acc:  28.1% | Test MI:  70.26 nats | Ponder: 6.29 steps
+Epoch [04/50] | Train Loss: 1.5607 | Train Acc:  41.7% | Test Acc:  29.6% | Test MI:  71.12 nats | Ponder: 6.73 steps
+Epoch [05/50] | Train Loss: 1.5095 | Train Acc:  42.4% | Test Acc:  30.1% | Test MI:  69.79 nats | Ponder: 6.74 steps
+Epoch [06/50] | Train Loss: 1.4593 | Train Acc:  43.0% | Test Acc:  31.9% | Test MI:  79.52 nats | Ponder: 6.02 steps
+Epoch [07/50] | Train Loss: 1.4493 | Train Acc:  44.2% | Test Acc:  32.1% | Test MI:  84.94 nats | Ponder: 6.67 steps
+Epoch [08/50] | Train Loss: 1.4166 | Train Acc:  44.5% | Test Acc:  34.5% | Test MI:  85.00 nats | Ponder: 5.62 steps
+Epoch [09/50] | Train Loss: 1.3827 | Train Acc:  46.6% | Test Acc:  34.1% | Test MI:  87.48 nats | Ponder: 6.89 steps
+Epoch [10/50] | Train Loss: 1.3966 | Train Acc:  46.7% | Test Acc:  35.1% | Test MI:  85.67 nats | Ponder: 6.89 steps
+Epoch [11/50] | Train Loss: 1.3606 | Train Acc:  46.4% | Test Acc:  34.8% | Test MI:  87.29 nats | Ponder: 7.76 steps
+Epoch [12/50] | Train Loss: 1.3505 | Train Acc:  46.2% | Test Acc:  35.0% | Test MI:  97.64 nats | Ponder: 6.10 steps
+Epoch [13/50] | Train Loss: 1.3480 | Train Acc:  47.2% | Test Acc:  34.5% | Test MI: 101.45 nats | Ponder: 6.29 steps
+Epoch [14/50] | Train Loss: 1.3129 | Train Acc:  46.2% | Test Acc:  35.7% | Test MI:  99.76 nats | Ponder: 6.09 steps
+Epoch [15/50] | Train Loss: 1.3241 | Train Acc:  48.0% | Test Acc:  37.1% | Test MI:  98.67 nats | Ponder: 6.74 steps
+Epoch [16/50] | Train Loss: 1.2974 | Train Acc:  48.6% | Test Acc:  36.2% | Test MI: 104.17 nats | Ponder: 7.26 steps
+Epoch [17/50] | Train Loss: 1.2925 | Train Acc:  50.3% | Test Acc:  36.2% | Test MI: 102.70 nats | Ponder: 8.23 steps
+Epoch [18/50] | Train Loss: 1.2789 | Train Acc:  50.0% | Test Acc:  37.1% | Test MI: 101.74 nats | Ponder: 8.35 steps
+Epoch [19/50] | Train Loss: 1.2668 | Train Acc:  51.2% | Test Acc:  35.8% | Test MI: 107.08 nats | Ponder: 8.49 steps
+Epoch [20/50] | Train Loss: 1.2475 | Train Acc:  50.9% | Test Acc:  38.3% | Test MI: 104.93 nats | Ponder: 8.57 steps
+Epoch [21/50] | Train Loss: 1.2654 | Train Acc:  51.2% | Test Acc:  37.2% | Test MI: 101.69 nats | Ponder: 8.46 steps
+Epoch [22/50] | Train Loss: 1.2280 | Train Acc:  53.0% | Test Acc:  37.8% | Test MI: 109.54 nats | Ponder: 8.11 steps
+Epoch [23/50] | Train Loss: 1.2273 | Train Acc:  52.3% | Test Acc:  36.5% | Test MI: 112.62 nats | Ponder: 8.22 steps
+Epoch [24/50] | Train Loss: 1.2187 | Train Acc:  53.2% | Test Acc:  36.6% | Test MI: 113.20 nats | Ponder: 8.14 steps
+Epoch [25/50] | Train Loss: 1.2281 | Train Acc:  52.0% | Test Acc:  37.0% | Test MI: 108.85 nats | Ponder: 8.69 steps
+Epoch [26/50] | Train Loss: 1.2219 | Train Acc:  52.0% | Test Acc:  37.9% | Test MI: 108.62 nats | Ponder: 7.84 steps
+Epoch [27/50] | Train Loss: 1.1668 | Train Acc:  55.0% | Test Acc:  37.9% | Test MI: 121.69 nats | Ponder: 7.89 steps
+Epoch [28/50] | Train Loss: 1.1805 | Train Acc:  54.8% | Test Acc:  37.5% | Test MI: 122.64 nats | Ponder: 7.98 steps
+Epoch [29/50] | Train Loss: 1.1242 | Train Acc:  55.4% | Test Acc:  38.8% | Test MI: 113.44 nats | Ponder: 7.78 steps
+Epoch [30/50] | Train Loss: 1.1576 | Train Acc:  54.7% | Test Acc:  38.3% | Test MI: 111.47 nats | Ponder: 8.43 steps
+Epoch [31/50] | Train Loss: 1.1551 | Train Acc:  56.6% | Test Acc:  37.6% | Test MI: 116.49 nats | Ponder: 8.43 steps
+Epoch [32/50] | Train Loss: 1.1427 | Train Acc:  57.3% | Test Acc:  38.8% | Test MI: 116.33 nats | Ponder: 8.21 steps
+Epoch [33/50] | Train Loss: 1.1144 | Train Acc:  56.2% | Test Acc:  39.7% | Test MI: 121.90 nats | Ponder: 7.76 steps
+Epoch [34/50] | Train Loss: 1.1119 | Train Acc:  55.9% | Test Acc:  39.9% | Test MI: 124.88 nats | Ponder: 7.67 steps
+Epoch [35/50] | Train Loss: 1.1115 | Train Acc:  57.1% | Test Acc:  39.5% | Test MI: 127.15 nats | Ponder: 8.20 steps
+Epoch [36/50] | Train Loss: 1.0766 | Train Acc:  58.7% | Test Acc:  40.2% | Test MI: 129.06 nats | Ponder: 8.12 steps
+Epoch [37/50] | Train Loss: 1.1155 | Train Acc:  57.0% | Test Acc:  40.0% | Test MI: 129.84 nats | Ponder: 7.73 steps
+Epoch [38/50] | Train Loss: 1.0863 | Train Acc:  58.9% | Test Acc:  40.2% | Test MI: 127.37 nats | Ponder: 8.28 steps
+Epoch [39/50] | Train Loss: 1.0565 | Train Acc:  58.8% | Test Acc:  40.2% | Test MI: 128.66 nats | Ponder: 8.45 steps
+Epoch [40/50] | Train Loss: 1.0653 | Train Acc:  58.9% | Test Acc:  40.6% | Test MI: 127.53 nats | Ponder: 8.62 steps
+Epoch [41/50] | Train Loss: 1.0310 | Train Acc:  59.9% | Test Acc:  39.8% | Test MI: 127.46 nats | Ponder: 8.48 steps
+Epoch [42/50] | Train Loss: 1.0280 | Train Acc:  60.6% | Test Acc:  39.8% | Test MI: 132.66 nats | Ponder: 7.78 steps
+Epoch [43/50] | Train Loss: 1.0294 | Train Acc:  61.8% | Test Acc:  40.9% | Test MI: 130.85 nats | Ponder: 8.14 steps
+Epoch [44/50] | Train Loss: 1.0201 | Train Acc:  60.6% | Test Acc:  40.4% | Test MI: 128.40 nats | Ponder: 8.55 steps
+Epoch [45/50] | Train Loss: 1.0013 | Train Acc:  62.7% | Test Acc:  41.5% | Test MI: 123.65 nats | Ponder: 8.49 steps
+Epoch [46/50] | Train Loss: 0.9716 | Train Acc:  61.7% | Test Acc:  42.5% | Test MI: 129.08 nats | Ponder: 8.67 steps
+Epoch [47/50] | Train Loss: 0.9680 | Train Acc:  62.7% | Test Acc:  41.6% | Test MI: 127.64 nats | Ponder: 9.31 steps
+Epoch [48/50] | Train Loss: 0.9532 | Train Acc:  64.1% | Test Acc:  42.0% | Test MI: 139.72 nats | Ponder: 9.18 steps
+Epoch [49/50] | Train Loss: 0.9389 | Train Acc:  64.8% | Test Acc:  43.5% | Test MI: 131.14 nats | Ponder: 9.60 steps
+Epoch [50/50] | Train Loss: 0.9153 | Train Acc:  64.6% | Test Acc:  41.1% | Test MI: 133.71 nats | Ponder: 9.41 steps
+
+======================================================================
+>>> Benchmark [2/2]: TASK: DYCK | MODEL: STANDARD_COMPRESSOR <<<
+Parameters: 4,333,314 Total | 4,333,314 Trainable
+======================================================================
+Epoch [01/20] | Train Loss: 0.3672 | Train Acc:  93.5% | Test Acc:  93.5% | Test MI:  10.89 nats
+Epoch [02/20] | Train Loss: 0.2615 | Train Acc:  82.0% | Test Acc:  82.0% | Test MI:   8.18 nats
+Epoch [03/20] | Train Loss: 0.3108 | Train Acc:  89.2% | Test Acc:  88.0% | Test MI:   8.76 nats
+Epoch [04/20] | Train Loss: 0.2557 | Train Acc:  91.6% | Test Acc:  90.7% | Test MI:   9.99 nats
+Epoch [05/20] | Train Loss: 0.2317 | Train Acc:  90.9% | Test Acc:  90.0% | Test MI:  10.10 nats
+Epoch [06/20] | Train Loss: 0.2364 | Train Acc:  90.9% | Test Acc:  90.1% | Test MI:   9.34 nats
+Epoch [07/20] | Train Loss: 0.2218 | Train Acc:  91.1% | Test Acc:  90.2% | Test MI:   9.29 nats
+Epoch [08/20] | Train Loss: 0.2083 | Train Acc:  91.0% | Test Acc:  90.2% | Test MI:   9.28 nats
+Epoch [09/20] | Train Loss: 0.2631 | Train Acc:  49.9% | Test Acc:  52.2% | Test MI:   4.57 nats
+Epoch [10/20] | Train Loss: 0.3045 | Train Acc:  90.8% | Test Acc:  89.8% | Test MI:   5.28 nats
+Epoch [11/20] | Train Loss: 0.5033 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   3.33 nats
+Epoch [12/20] | Train Loss: 0.4828 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.92 nats
+Epoch [13/20] | Train Loss: 0.4726 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.77 nats
+Epoch [14/20] | Train Loss: 0.4791 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.56 nats
+Epoch [15/20] | Train Loss: 0.4807 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.06 nats
+Epoch [16/20] | Train Loss: 0.4765 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.04 nats
+Epoch [17/20] | Train Loss: 0.4822 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.09 nats
+Epoch [18/20] | Train Loss: 0.4729 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.18 nats
+Epoch [19/20] | Train Loss: 0.4835 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.23 nats
+Epoch [20/20] | Train Loss: 0.4779 | Train Acc:  75.2% | Test Acc:  74.0% | Test MI:   4.21 nats
+
+======================================================================
+>>> Benchmark [2/2]: TASK: DYCK | MODEL: UNIVERSAL_COMPRESSOR <<<
+Parameters: 1,645,315 Total | 1,645,315 Trainable
+======================================================================
+Epoch [01/20] | Train Loss: 0.4705 | Train Acc:  87.7% | Test Acc:  86.7% | Test MI:   8.38 nats | Ponder: 4.23 steps
+Epoch [02/20] | Train Loss: 0.2146 | Train Acc:  91.3% | Test Acc:  90.4% | Test MI:  11.12 nats | Ponder: 3.92 steps
+Epoch [03/20] | Train Loss: 0.1092 | Train Acc:  96.6% | Test Acc:  96.4% | Test MI:  12.62 nats | Ponder: 2.92 steps
+Epoch [04/20] | Train Loss: 0.1033 | Train Acc:  97.8% | Test Acc:  97.8% | Test MI:  13.34 nats | Ponder: 2.76 steps
+Epoch [05/20] | Train Loss: 0.0763 | Train Acc:  97.4% | Test Acc:  98.0% | Test MI:  15.26 nats | Ponder: 2.43 steps
+Epoch [06/20] | Train Loss: 0.0674 | Train Acc:  98.6% | Test Acc:  98.6% | Test MI:  14.21 nats | Ponder: 4.25 steps
+Epoch [07/20] | Train Loss: 0.0480 | Train Acc:  98.2% | Test Acc:  98.5% | Test MI:  15.54 nats | Ponder: 4.35 steps
+Epoch [08/20] | Train Loss: 0.0387 | Train Acc:  99.5% | Test Acc:  99.5% | Test MI:  14.14 nats | Ponder: 4.29 steps
+Epoch [09/20] | Train Loss: 0.0349 | Train Acc:  98.7% | Test Acc:  99.3% | Test MI:  15.55 nats | Ponder: 4.21 steps
+Epoch [10/20] | Train Loss: 0.0363 | Train Acc:  99.1% | Test Acc:  99.4% | Test MI:  16.20 nats | Ponder: 4.49 steps
+Epoch [11/20] | Train Loss: 0.0244 | Train Acc:  99.6% | Test Acc:  99.6% | Test MI:  18.00 nats | Ponder: 4.30 steps
+Epoch [12/20] | Train Loss: 0.0414 | Train Acc:  99.3% | Test Acc:  99.2% | Test MI:  17.15 nats | Ponder: 5.39 steps
+Epoch [13/20] | Train Loss: 0.0358 | Train Acc:  98.9% | Test Acc:  99.0% | Test MI:  15.73 nats | Ponder: 4.77 steps
+Epoch [14/20] | Train Loss: 0.0278 | Train Acc:  99.3% | Test Acc:  99.5% | Test MI:  14.95 nats | Ponder: 4.40 steps
+Epoch [15/20] | Train Loss: 0.0326 | Train Acc:  99.5% | Test Acc:  99.5% | Test MI:  15.49 nats | Ponder: 5.00 steps
+Epoch [16/20] | Train Loss: 0.0291 | Train Acc:  99.5% | Test Acc:  99.2% | Test MI:  15.19 nats | Ponder: 4.91 steps
+Epoch [17/20] | Train Loss: 0.0222 | Train Acc:  99.1% | Test Acc:  99.3% | Test MI:  16.77 nats | Ponder: 4.86 steps
+Epoch [18/20] | Train Loss: 0.0234 | Train Acc:  99.2% | Test Acc:  99.5% | Test MI:  16.71 nats | Ponder: 4.33 steps
+Epoch [19/20] | Train Loss: 0.0263 | Train Acc:  98.8% | Test Acc:  99.1% | Test MI:  16.91 nats | Ponder: 4.88 steps
+Epoch [20/20] | Train Loss: 0.0291 | Train Acc:  99.2% | Test Acc:  99.2% | Test MI:  15.79 nats | Ponder: 4.62 steps
+
+==============================
+FINAL BENCHMARK
+==============================
+   Task                Model  Train_Acc  Test_Acc  Test_MI Avg_Ponder  Peak_VRAM_MB  Total_Time_Sec
+LISTOPS  STANDARD_COMPRESSOR      39.06     30.75   69.774        N/A       1213.19          264.99
+LISTOPS UNIVERSAL_COMPRESSOR      64.61     41.15  133.709       9.41       3293.30          778.42
+   DYCK  STANDARD_COMPRESSOR      75.16     74.00    4.214        N/A       3297.39           76.72
+   DYCK UNIVERSAL_COMPRESSOR      99.22     99.15   15.789       4.62       3297.39          260.44
+
+Results saved to results/compressor_benchmark_0324_2024.csv
